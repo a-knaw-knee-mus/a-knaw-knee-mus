@@ -8,7 +8,8 @@
 ```py
 Languages: Python, HTML, CSS, JavaScript
            Java, C, Visual Basic
-Libraries/Frameworks: React, Express, NodeJS, MongoDB
+Libraries/Frameworks: React, Express
+                      NodeJS, MongoDB
                       Jquery 
 ```
 ### Contacts:
