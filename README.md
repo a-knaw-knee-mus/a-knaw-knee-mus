@@ -1,16 +1,17 @@
-### Hi there 👋
+## Hello, I'm Muhammad
 
-<!--
-**a-knaw-knee-mus/a-knaw-knee-mus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=a-knaw-knee-mus&theme=algolia&show_icons=true" alt="Muhammad's Github Stats"></img>
 
-Here are some ideas to get you started:
+2nd year Computer Engineering student at Ryerson University.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Languages:
+```py
+Languages: Python, HTML, CSS, JavaScript
+           Java, C, Visual Basic
+Libraries/Frameworks: React, Express, NodeJS, MongoDB
+                      Jquery 
+```
+### Contacts:
+<a href="mailto:m30ali@ryerson.ca" target="blank"><img src="logos/envelope.svg" height="40" width="50"/></a>
+<a href="https://www.linkedin.com/in/muhammad-mehdi-ali-8bb5491b6/" target="blank"><img src="logos/linkedin.svg" height="40" width="50"/></a>
+<a href="https://www.chess.com/member/poggywoggy" target="blank"><img src="logos/chess.svg" height="40" width="50"/></a>
