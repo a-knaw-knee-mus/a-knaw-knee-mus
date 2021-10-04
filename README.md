@@ -13,6 +13,6 @@ Libraries/Frameworks: React, Express
                       Jquery 
 ```
 ### Contacts:
-<a href="mailto:m30ali@ryerson.ca" target="_blank"><img src="logos/envelope.svg" height="40" width="50"/></a>
-<a href="https://www.linkedin.com/in/muhammad-mehdi-ali-8bb5491b6/" target="_blank"><img src="logos/linkedin.svg" height="40" width="50"/></a>
-<a href="https://www.chess.com/member/poggywoggy" target="_blank"><img src="logos/chess.svg" height="40" width="50"/></a>
+<a href="mailto:m30ali@ryerson.ca" target="_blank" rel="noopener noreferrer"><img src="logos/envelope.svg" height="40" width="50"/></a>
+<a href="https://www.linkedin.com/in/muhammad-mehdi-ali-8bb5491b6/" target="_blank" rel="noopener noreferrer"><img src="logos/linkedin.svg" height="40" width="50"/></a>
+<a href="https://www.chess.com/member/poggywoggy" target="_blank" rel="noopener noreferrer"><img src="logos/chess.svg" height="40" width="50"/></a>
