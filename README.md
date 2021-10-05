@@ -6,7 +6,7 @@
 - Currenty learning about web development (both front and backend using MERN stack) but I originally started on Python where I made algorithms and a Discord Bot!
 
 ## Languages
-> Python HTML, CSS, JavaScript Java, C Visual Basic
+> Python, HTML, CSS, JavaScript, Java, C, VHDL, Visual Basic, PBASIC
 
 ## Libraries
 > React Express NodeJS MongoDB Jquery
