@@ -4,7 +4,6 @@
 
 - 2nd year Computer Engineering student at Ryerson University.
 - Currenty learning about web development (both front and backend using MERN stack) but I originally started on Python where I made algorithms and a Discord Bot!
-- Check out my website! https://muhammadmehdi-ali.netlify.app/
 
 ## Languages
 > JavaScript, Java, Python, HTML, CSS, C, VHDL, Visual Basic, PBASIC
