@@ -3,13 +3,14 @@
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=a-knaw-knee-mus&theme=tokyonight&show_icons=true" alt="Muhammad's Github Stats"></img>
 
 - 2nd year Computer Engineering student at Ryerson University.
-- Currenty learning about web development (both front and backend using MERN stack) but I originally started on Python where I made algorithms and a Discord Bot!
+- Currently learning about NextJS to replace my MERN workflow
+- Originally started on Python where I made algorithms and a Discord Bot!
 
 ## Languages
 > JavaScript, Java, Python, HTML, CSS, C, VHDL, Visual Basic, PBASIC
 
 ## Libraries/Frameworks
-> React, Express, NodeJS, MongoDB, Pygame, React Boostrap, Jquery
+> NextJS, React, Express, NodeJS, MongoDB, Pygame, React Boostrap, Jquery
 
 ### Relevant Links:
 <a href="mailto:m30ali@ryerson.ca"><img src="logos/envelope.svg" height="40" width="50"/></a>
