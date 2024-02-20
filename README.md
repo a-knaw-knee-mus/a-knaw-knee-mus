@@ -11,7 +11,7 @@
 
 - 📫 Shoot me an email @ **m30ali@ryerson.ca**
 
-- ♟ Enjoy chess in my free time, peaking **1861 👀**
+- ♟ Enjoy chess in my free time, peaking **1955 👀**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
