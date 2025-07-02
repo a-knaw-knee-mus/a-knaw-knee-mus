@@ -9,7 +9,7 @@
 
 - ◀ Previous project development in **C++ for SFML visualizations Python for a Discord Bot, Flutter/Dart for mobile-dev and NextJS/TailwindCSS for web-dev**
 
-- 📫 Shoot me an email @ **m30ali@torontomu.ca**
+- 📫 Shoot me an email @ **muhammad@colonist.io**
 
 - ♟ Enjoy chess in my free time, peaking **1977 👀**
 
