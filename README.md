@@ -5,7 +5,7 @@
 
 - 🔭 Previously worked @ **AMD as a SOC DFT Engineer Intern** and @ **TD as a SWE Intern**
 
-- 👨‍💻 All of my projects are available at [https://muhammad-m.vercel.app/](https://aknawkneemus.com)
+- 👨‍💻 All of my projects are available at [https://aknawkneemus.com](https://aknawkneemus.com)
 
 - ◀ Previous project development in **C++ for SFML visualizations Python for a Discord Bot, Flutter/Dart for mobile-dev and NextJS/TailwindCSS for web-dev**
 
