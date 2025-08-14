@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad</h1>
-<h3 align="center">Software Engineer at [Colonist.io](https://colonist.io)</h3>
+<h3 align="center">Software Engineer at <a href="https://colonist.io" target="_blank">Colonist.io</a></h3>
 
 - 🔭 Previously worked @ **AMD as a SOC DFT Engineer Intern** and @ **TD as a SWE Intern**
 
