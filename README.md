@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad</h1>
-<h3 align="center">4th year Computer Engineering student</h3>
-
-- 💼 Currently full-time at Colonist.io as a Full Stack Developer on the Platform Team!
+<h3 align="center">Software Engineer at [Colonist.io](https://colonist.io)</h3>
 
 - 🔭 Previously worked @ **AMD as a SOC DFT Engineer Intern** and @ **TD as a SWE Intern**
 
