@@ -9,7 +9,7 @@
 
 - 📫 Shoot me an email @ **muhammad@colonist.io**
 
-- ♟ Enjoy chess in my free time, peaking **1977 👀**
+- ♟ Enjoy chess in my free time, peaking **2002 👀**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
